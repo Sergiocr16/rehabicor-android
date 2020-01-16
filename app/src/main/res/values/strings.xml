@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RehabiCor</string>
+    <string name="image_view">Image View</string>
+	<string name="mgks_promo">infeeds.com/u/mgks\ngithub.com/mgks</string>
+    <string name="rate_dialog_title">Rate</string>
+    <string name="rate_dialog_message">If you like our app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thanks!</string>
+    <string name="rate_dialog_ok">RATE</string>
+    <string name="rate_dialog_cancel">LATER</string>
+    <string name="rate_dialog_no">DON\'T ASK AGAIN</string>
+	<string name="loc_fail">No se pudo encontrar la ubicación</string>
+    <string name="loc_fail_text">Por favor, compruebe su ubicación GPS.</string>
+    <string name="loc_fail_more">Verifique si su GPS está habilitado; si no lo está, ajústelo a alta precisión desde la configuración de ubicación.</string>
+    <string name="loc_perm">Por favor, de permiso para obtener su localización.</string>
+    <string name="loc_perm_text">Por favor, de permiso para obtener su localización.</string>
+    <string name="loc_perm_more">Por favor, de permiso para obtener su localización.</string>
+	<string name="dl_downloading">Descargando archivo…</string>
+	<string name="dl_downloading2">Descargando archivo…</string>
+	<string name="fl_chooser">Seleccione un archivo</string>
+	<string name="went_wrong">¡Algo sucedió mal!</string>
+	<string name="check_connection">¡Por favor, verifique su conexión a internet!</string>
+	<string name="share_w_friends">Compartalo con sus amigos</string>
+</resources>
